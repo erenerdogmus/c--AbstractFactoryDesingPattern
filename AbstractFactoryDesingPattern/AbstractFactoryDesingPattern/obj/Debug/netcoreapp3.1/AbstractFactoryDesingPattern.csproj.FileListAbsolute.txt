@@ -1,0 +1,28 @@
+C:\Users\EREN ERDOĞMUŞ\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.exe
+C:\Users\EREN ERDOĞMUŞ\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.deps.json
+C:\Users\EREN ERDOĞMUŞ\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.runtimeconfig.json
+C:\Users\EREN ERDOĞMUŞ\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.runtimeconfig.dev.json
+C:\Users\EREN ERDOĞMUŞ\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.pdb
+C:\Users\EREN ERDOĞMUŞ\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.csproj.AssemblyReference.cache
+C:\Users\EREN ERDOĞMUŞ\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EREN ERDOĞMUŞ\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.AssemblyInfoInputs.cache
+C:\Users\EREN ERDOĞMUŞ\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.AssemblyInfo.cs
+C:\Users\EREN ERDOĞMUŞ\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\EREN ERDOĞMUŞ\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.pdb
+C:\Users\EREN ERDOĞMUŞ\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.genruntimeconfig.cache
+C:\Users\ERENERDOGMUS\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.exe
+C:\Users\ERENERDOGMUS\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.deps.json
+C:\Users\ERENERDOGMUS\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.runtimeconfig.json
+C:\Users\ERENERDOGMUS\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.runtimeconfig.dev.json
+C:\Users\ERENERDOGMUS\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.dll
+C:\Users\ERENERDOGMUS\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.pdb
+C:\Users\ERENERDOGMUS\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.csproj.AssemblyReference.cache
+C:\Users\ERENERDOGMUS\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERENERDOGMUS\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.AssemblyInfoInputs.cache
+C:\Users\ERENERDOGMUS\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.AssemblyInfo.cs
+C:\Users\ERENERDOGMUS\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\ERENERDOGMUS\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.dll
+C:\Users\ERENERDOGMUS\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.pdb
+C:\Users\ERENERDOGMUS\source\repos\AbstractFactoryDesingPattern\AbstractFactoryDesingPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesingPattern.genruntimeconfig.cache
